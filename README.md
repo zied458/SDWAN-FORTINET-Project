@@ -167,9 +167,9 @@ Achievements & Metrics - Detailed results and analysis
 
 Ready to discuss how these enterprise security skills can benefit your organization?
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zied-fazai/)
-
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazaizied5@gmail.com)
+- 🔗 LinkedIn: [Zied Fazai](https://www.linkedin.com/in/zied-fazai/)
+  
+- 📧 Email: [zied.fazai@gmail.com](mailto:fazaizied5@gmail.com)
 
 ##
 
