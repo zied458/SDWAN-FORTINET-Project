@@ -156,11 +156,11 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 
 ## 📚 Documentation
 
-- 📖 [Final PFE Report (PDF)](docs/PFE_Report.pdf)  
-
-Deployment Guide - Setup and configuration instructions
-
-Achievements & Metrics - Detailed results and analysis
+- 📖 [Final PFE Report (PDF)](docs/PFE_Report.pdf)
+  
+- ⚙️ [Deployment Guide](docs/DEPLOYMENT_GUIDE.md)
+  
+- 🏆 [Skills Showcase](docs/SKILLS_SHOWCASE.md)
 
 
 ## 📞 Contact
