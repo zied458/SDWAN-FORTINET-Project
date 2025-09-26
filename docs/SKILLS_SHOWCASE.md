@@ -142,7 +142,6 @@
 ## 📚 Continuous Learning
 
 ### Current Focus Areas
-- AI/ML in Networking  
 - Container Security (Kubernetes & Docker)  
 - DevSecOps practices  
 - IoT Security  
