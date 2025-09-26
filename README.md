@@ -39,6 +39,8 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 
 -**Microsoft Azure** - Cloud integration and hybrid connectivity
 
+##
+
 ### Security Components
 -**Intrusion Prevention System (IPS)** - Real-time threat detection
 
@@ -47,6 +49,7 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 -**Two-Factor Authentication (2FA)** - Enhanced access security
 
 -**SD-WAN Orchestration** - Intelligent traffic routing
+##
 
 ### Network Architecture
 
@@ -86,6 +89,8 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 
 -Established secure VPN tunnels between sites
 
+##
+
 ### Performance Optimization
 
 -Load balancing across multiple WAN links
@@ -96,6 +101,8 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 
 -Real-time monitoring and alerting
 
+##
+
 ### Virtualization & Cloud
 
 -VMware infrastructure setup and management
@@ -105,6 +112,8 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 -Disaster recovery and backup strategies
 
 -Scalable resource allocation
+
+##
 
 ### 📈 Business Impact
 
@@ -131,6 +140,7 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 -Cloud Integration (Microsoft Azure)
 
 -Security Policy Development & Enforcement
+##
 
 ### Professional Skills:
 
@@ -159,5 +169,6 @@ Ready to discuss how these enterprise security skills can benefit your organizat
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zied-fazai/)
 
+##
 
 This project represents a comprehensive understanding of enterprise network security, demonstrating the ability to design, implement, and manage complex infrastructure solutions that deliver measurable business value.
