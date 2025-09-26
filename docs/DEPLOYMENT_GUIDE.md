@@ -31,4 +31,19 @@
 - Set up management network for device access  
 
 ### 1.3 Initial Configuration
+```bash
+# Basic FortiGate setup
+config system global
+    set hostname "FGT-HQ01"
+    set timezone "GMT+1"
+end
+
+config system interface
+    edit "port1"
+        set mode static
+        set ip 5.2.0.1 255.255.255.0
+        set allowaccess ping https ssh
+    next
+end
+```
 
