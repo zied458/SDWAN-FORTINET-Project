@@ -170,8 +170,6 @@ The high-level architecture shows the integration of the Headquarters (HQ), Bran
 -Risk Assessment & Mitigation
 
 ## 📚 Documentation
-
-- 📖 [Final PFE Report (PDF)](docs/PFE_Report.pdf)
   
 - ⚙️ [Deployment Guide](docs/DEPLOYMENT_GUIDE.md)
   
