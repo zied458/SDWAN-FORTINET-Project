@@ -139,19 +139,6 @@
 
 ---
 
-## 📚 Continuous Learning
 
-### Current Focus Areas
-- Container Security (Kubernetes & Docker)  
-- DevSecOps practices  
-- IoT Security  
-
-### Professional Development
-- Industry conferences  
-- Advanced vendor certifications  
-- Open source contributions  
-- Mentorship & knowledge sharing  
-
----
 
 
