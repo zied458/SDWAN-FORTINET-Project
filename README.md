@@ -62,21 +62,36 @@ Designed and implemented a comprehensive Fortinet SD-WAN security architecture a
 -**Centralized Management** - Unified security policies
 
 ## 🏗️ Architecture Overview
-```
-                         ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-                         │   Site A        │    │   Site B        │    │   Site C        │
-                         │  FortiGate FW   │────│  FortiGate FW   │────│  FortiGate FW   │
-                         │  VLAN 1-2       │    │  VLAN 3-4       │    │  Management     │
-                         └─────────────────┘    └─────────────────┘    └─────────────────┘
-                                │                       │                       │
-                                └───────────────────────┼───────────────────────┘
-                                                        │
-                                               ┌─────────────────┐
-                                               │  Azure Cloud    │
-                                               │  Integration    │
-                                               └─────────────────┘
 
-```
+The following visuals illustrate the deployed Fortinet SD-WAN Security Architecture across three enterprise sites, with centralized management and Azure cloud integration.
+
+### 🔒 VPN Connectivity
+FortiClient SSL VPN establishes secure remote access for users into the enterprise network.  
+
+![VPN Connection](docs/vpn_connected.jpg)
+
+---
+
+### 🌐 SD-WAN Performance Monitoring
+FortiGate’s SD-WAN dashboard provides real-time visibility into link performance (latency, jitter, packet loss), ensuring intelligent traffic steering across WAN paths.  
+
+![SD-WAN Dashboard](docs/sdwan_dashboard.jpg)
+
+---
+
+### 🏢 Enterprise Network Topology
+The high-level architecture shows the integration of the Headquarters (HQ), Branch 1, and Branch 2 sites with redundant WAN connections, VLAN segmentation, and Azure cloud connectivity.  
+
+![Network Architecture](docs/network_architecture.jpg)
+
+
+
+### 🔑 Key Highlights
+- **Multi-site FortiGate deployment** for unified enterprise security  
+- **VLAN segmentation** for isolation and secure communication  
+- **Redundant WAN links** ensuring high availability and failover  
+- **Azure integration** enabling hybrid cloud resilience and scalability  
+
 ## 🔧 Implementation Highlights
 
 ### Network Security
