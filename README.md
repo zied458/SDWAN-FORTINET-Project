@@ -68,7 +68,7 @@ The following visuals illustrate the deployed Fortinet SD-WAN Security Architect
 ### 🔒 VPN Connectivity
 FortiClient SSL VPN establishes secure remote access for users into the enterprise network.  
 
-![VPN Connection](docs/vpn_connected.jpg)
+![VPN Connection](docs/vpn_connected.jpg.png)
 
 ---
 
