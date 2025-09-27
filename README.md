@@ -75,14 +75,14 @@ FortiClient SSL VPN establishes secure remote access for users into the enterpri
 ### 🌐 SD-WAN Performance Monitoring
 FortiGate’s SD-WAN dashboard provides real-time visibility into link performance (latency, jitter, packet loss), ensuring intelligent traffic steering across WAN paths.  
 
-![SD-WAN Dashboard](docs/sdwan_dashboard.jpg)
+![SD-WAN Dashboard](docs/sdwan_dashboard.jpg.png)
 
 ---
 
 ### 🏢 Enterprise Network Topology
 The high-level architecture shows the integration of the Headquarters (HQ), Branch 1, and Branch 2 sites with redundant WAN connections, VLAN segmentation, and Azure cloud connectivity.  
 
-![Network Architecture](docs/network_architecture.jpg)
+![Network Architecture](docs/network_architecture.jpg.png)
 
 
 
